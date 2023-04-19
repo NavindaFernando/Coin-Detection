@@ -2,8 +2,6 @@
 Coin detection :moneybag:
 </h3>
 
-![cd](https://user-images.githubusercontent.com/86073690/233016019-b3bdb46f-18b0-4918-b810-44953d944223.jpg)
-
 ***
 
 <h6 align="center">
